@@ -97,6 +97,10 @@ body{
     color: var(--White);
 }
 
+.ml{
+    color: var(--Soft_blue);
+}
+
 .avatar{
     margin-right: 17px;
     outline: 2px solid var(--White);
